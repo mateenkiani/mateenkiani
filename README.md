@@ -46,4 +46,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
 </a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateenkiani&label=Profile%20views&color=0e75b6&style=flat" alt="mateenkiani" /> </p>
+
 </div>
