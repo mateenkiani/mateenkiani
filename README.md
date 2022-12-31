@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-🔭 I am currently working at [@reactive Space](https://www.reactivespace.com/). I am a full Stack dev.
+🔭 I am currently working at [@Tekrowe Digital](https://www.tekrowe.com/) as a full Stack dev.
 
 <!--
 **balazsorban44/balazsorban44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
